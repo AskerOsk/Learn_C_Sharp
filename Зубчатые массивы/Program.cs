@@ -29,7 +29,6 @@ namespace Зубчатые_массивы
                 }
                 Console.WriteLine();
             }
-
         }
     }
 }
