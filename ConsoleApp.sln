@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ФУНКЦИИ_И_МЕТО�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Перегрузка методов", "Перегрузка методов\Перегрузка методов.csproj", "{6326D002-509D-44D1-A604-AAEBA745B8DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Пройденные уроки без кода", "Пройденные уроки без кода\Пройденные уроки без кода.csproj", "{9EF9B0A5-08CF-4E61-8A61-D42CD72A912F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{6326D002-509D-44D1-A604-AAEBA745B8DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6326D002-509D-44D1-A604-AAEBA745B8DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6326D002-509D-44D1-A604-AAEBA745B8DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EF9B0A5-08CF-4E61-8A61-D42CD72A912F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EF9B0A5-08CF-4E61-8A61-D42CD72A912F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EF9B0A5-08CF-4E61-8A61-D42CD72A912F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EF9B0A5-08CF-4E61-8A61-D42CD72A912F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
