@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Зубчатые масси
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Трехмерные массивы", "Трехмерные массивы\Трехмерные массивы.csproj", "{7E67FD98-25DE-4217-AA40-516D321C8039}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ФУНКЦИИ И МЕТОДЫ", "ФУНКЦИИ И МЕТОДЫ\ФУНКЦИИ И МЕТОДЫ.csproj", "{3D62F567-C373-4B63-8E50-213C4B6E86B2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{7E67FD98-25DE-4217-AA40-516D321C8039}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E67FD98-25DE-4217-AA40-516D321C8039}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E67FD98-25DE-4217-AA40-516D321C8039}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D62F567-C373-4B63-8E50-213C4B6E86B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D62F567-C373-4B63-8E50-213C4B6E86B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D62F567-C373-4B63-8E50-213C4B6E86B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D62F567-C373-4B63-8E50-213C4B6E86B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
