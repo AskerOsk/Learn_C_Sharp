@@ -13,6 +13,10 @@ namespace Пройденные_уроки_без_кода
 
             Console.WriteLine("ОБЛАСТЬ ВИДИМОСТИ | КОНТЕКСТ ПЕРЕМЕННОЙ | КОНФЛИКТЫ ОБЛАСТЕЙ ВИДИМОСТИ | C# Уроки | # 37 \nhttps://www.youtube.com/watch?v=FyCp19W_5d8&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=50");
             Console.WriteLine("ЧТО ТАКОЕ NULL | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ | # 39 \nhttps://www.youtube.com/watch?v=wqUiYYVZDI4&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=52");
+            Console.WriteLine("ОПЕРАТОР ОБЪЕДИНЕНИЯ С NULL С# | C# ?? | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ | # 40 \n https://www.youtube.com/watch?v=mXh0ci6O6og&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=54");
+            // Console.WriteLine(" \n");
+            // Console.WriteLine(" \n");
+            // Console.WriteLine(" \n");
 
         }
     }
