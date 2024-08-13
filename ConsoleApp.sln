@@ -43,6 +43,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Изменение разм
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Добавление элемента в массив", "Добавление элемента в массив\Добавление элемента в массив.csproj", "{B1170DC9-D3CE-4994-A6D7-7FCD9E44A191}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "УДАЛИТЬ ЭЛЕМЕНТ ИЗ МАССИВА", "УДАЛИТЬ ЭЛЕМЕНТ ИЗ МАССИВА\УДАЛИТЬ ЭЛЕМЕНТ ИЗ МАССИВА.csproj", "{914284F9-B027-4AFE-BF89-909A707220CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{B1170DC9-D3CE-4994-A6D7-7FCD9E44A191}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1170DC9-D3CE-4994-A6D7-7FCD9E44A191}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1170DC9-D3CE-4994-A6D7-7FCD9E44A191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{914284F9-B027-4AFE-BF89-909A707220CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{914284F9-B027-4AFE-BF89-909A707220CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{914284F9-B027-4AFE-BF89-909A707220CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{914284F9-B027-4AFE-BF89-909A707220CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
