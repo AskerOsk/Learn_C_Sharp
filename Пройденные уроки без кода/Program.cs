@@ -16,6 +16,8 @@ namespace Пройденные_уроки_без_кода
             Console.WriteLine("ОПЕРАТОР ОБЪЕДИНЕНИЯ С NULL С# | C# ?? | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ | # 40 \n https://www.youtube.com/watch?v=mXh0ci6O6og&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=54");
             Console.WriteLine("ОПЕРАТОР ПРИСВАИВАНИЯ ОБЪЕДИНЕНИЯ СО ЗНАЧЕНИЕМ NULL в C# 8 | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ | # 41\nhttps://www.youtube.com/watch?v=Jb-dFOXrSa0&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=54");
             Console.WriteLine("ОПЕРАТОР УСЛОВНОГО NULL | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ | # 42 ?. \n https://www.youtube.com/watch?v=UwVYKGi0XJk&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=55");
+            Console.WriteLine("КЛЮЧЕВОЕ СЛОВО PARAMS | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ \n https://www.youtube.com/watch?v=gwYuiwelSQs&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=62");
+            // Console.WriteLine(" \n");
             // Console.WriteLine(" \n");
 
 
