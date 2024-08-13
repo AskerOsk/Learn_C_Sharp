@@ -9,13 +9,20 @@ namespace УДАЛИТЬ_ЭЛЕМЕНТ_ИЗ_МАССИВА
         {
             int[] newArray = new int[array.Length -1];
 
-            for (int i = 0; i < index;  i++)
+            //for (int i = 0; i < index; i++)
+            //{
+            //    newArray[i] = array[i];
+            //}
+            //for (int i = index + 1; i < array.Length; i++)
+            //{
+            //    newArray[i - 1] = array[i];
+            //}
+
+            for (int i = 0, j = 0; i < array.Length; i++) // решение с Димашем
             {
-                newArray[i] = array[i];
-            }
-            for (int i = index + 1; i < array.Length; i++)
-            {
-                newArray[i - 1] = array[i];
+                if (i == index) continue;
+                newArray[j] = array[i];
+                j++;
             }
 
             array = newArray;
@@ -34,12 +41,11 @@ namespace УДАЛИТЬ_ЭЛЕМЕНТ_ИЗ_МАССИВА
 
         static void Main(string[] args)
         {
-            int[] myArray ={ 10, 50, 401, 457, 594 };
+            int[] myArray ={ 10, 50, 401, 457, 594};
 
             DeleteAt(ref myArray, 2);
             DeleteFirs(ref myArray);
             DeleteLast(ref myArray);
-           
 
         }
     }
