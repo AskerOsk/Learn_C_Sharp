@@ -7,23 +7,23 @@ namespace Добавление_элемента_в_массив
 
         static void Insert(ref int[] array, int value, int index) // В данном функционале мы указаывем по какому индексу будет добавлен новое значение для массива.
         {
-            int [] newArray = new int [array.Length + 1];
+            //int [] newArray = new int [array.Length + 1];
 
-            for (int i = 0; i <= index;  i++)
-            {
-                if (i == index)
-                {
-                    newArray[i] = value;
-                    continue;
-                }
-                newArray[i] = array[i];
-            }
-            for (int i = index + 1; i < newArray.Length; i++)
-            {
-                newArray[i] = array[i - 1 ];
-            }
+            //for (int i = 0; i <= index;  i++)
+            //{
+            //    if (i == index)
+            //    {
+            //        newArray[i] = value;
+            //        continue;
+            //    }
+            //    newArray[i] = array[i];
+            //}
+            //for (int i = index + 1; i < newArray.Length; i++)
+            //{
+            //    newArray[i] = array[i - 1 ];
+            //}
 
-            array = newArray;
+            //array = newArray;
 
             /* int[] newArray = new int[array.Length + 1];   // Решение из курса
             newArray[index] = value;
@@ -41,6 +41,24 @@ namespace Добавление_элемента_в_массив
             array = newArray;
             */
 
+
+            int[] newArray = new int[array.Length + 1]; // Код из GPT
+
+            for (int i = 0; i < array.Length; i++)
+            {
+                if (i < index)
+                {
+                    newArray[i] = array[i];
+                }
+                else
+                {
+                    newArray[i + 1] = array[i];
+                }
+            }
+
+            newArray[index] = value;
+
+            array = newArray;
 
         }
 
