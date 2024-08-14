@@ -32,56 +32,67 @@ namespace Вычесление_диогонали
             int right = 0;
 
 
-            //for (int i = 0; i < arrLeng; i++)
-            //{
-            //    for (int j = i + 1; j < arrLeng - i; j++)
-            //    {
-            //        resSum += array[i, j];
-            //        Console.Write(array[i, j] + "\t");
-            //    }
-            //    Console.WriteLine();
-            //}
-            //Console.WriteLine(resSum);
-
-            //for (int i = arrLeng; i > 0; i--)
-            //{
-            //    for (int j = last + 1; j < arrLeng - last; j++)
-            //    {
-            //        resSum += array[i, j];
-            //        Console.Write(array[i, j] + "\t");
-            //    }
-            //    last++;
-            //    Console.WriteLine();
-            //}
-            //Console.WriteLine(resSum);
-
-            //for (int i = 1; i < arrLeng; i++)
-            //{
-            //    for (int j = 0; j < i; j++)
-            //    {
-            //        right++;
-            //        if (right <= arrLeng)
-            //        {
-            //            Console.Write(array[i, j] + "\t");
-            //        }
-            //    }
-
-            //    Console.WriteLine();
-            //}
-            int left = 4;
-
-            for (int i = 1; i < arrLeng; i++)
+            for (int i = 0; i < arrLeng; i++)
             {
-                
-                for (int j = arrLeng; j > i ; j--)
+                for (int j = i + 1; j < arrLeng - i; j++)
                 {
-
+                    resSum += array[i, j];
+                    Console.Write(array[i, j] + "\t");
                 }
-               
                 Console.WriteLine();
             }
 
-            Console.WriteLine(resSum);
+           // Console.WriteLine(resSum);
+
+            for (int i = arrLeng; i > 0; i--)
+            {
+                for (int j = last + 1; j < arrLeng - last; j++)
+                {
+                    resSum += array[i, j];
+                    Console.Write(array[i, j] + "\t");
+                }
+                last++;
+                Console.WriteLine();
+            }
+            // Console.WriteLine(resSum);
+
+            for (int i = 1; i < arrLeng; i++)
+            {
+                for (int j = 0; j < i; j++)
+                {
+                    right++;
+                    if (right <= arrLeng)
+                    {
+                        Console.Write(array[i, j] + "\t");
+                    }
+                }
+
+                Console.WriteLine();
+            }
+            Console.WriteLine();
+
+
+            int left = 1;
+
+            for (int i = 1; i < arrLeng; i++)
+            {
+
+                for (int j = arrLeng; j > i && i == left;  j--)
+                {
+                    left++;
+                    Console.Write(array[i, j] + "\t");
+
+                    if (i == 2)
+                    {
+                        Console.Write(array[i, j - 1] + "\t");
+                    }
+
+                }
+
+           Console.WriteLine();
+            }
+
+           // Console.WriteLine(resSum);
 
         }
     }
