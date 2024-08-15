@@ -17,7 +17,7 @@ namespace Пройденные_уроки_без_кода
             Console.WriteLine("ОПЕРАТОР ПРИСВАИВАНИЯ ОБЪЕДИНЕНИЯ СО ЗНАЧЕНИЕМ NULL в C# 8 | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ | # 41\nhttps://www.youtube.com/watch?v=Jb-dFOXrSa0&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=54");
             Console.WriteLine("ОПЕРАТОР УСЛОВНОГО NULL | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ | # 42 ?. \n https://www.youtube.com/watch?v=UwVYKGi0XJk&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=55");
             Console.WriteLine("КЛЮЧЕВОЕ СЛОВО PARAMS | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ \n https://www.youtube.com/watch?v=gwYuiwelSQs&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=62");
-            // Console.WriteLine(" \n");
+            Console.WriteLine("ЧТО ТАКОЕ РЕКУРСИЯ C# | ПЕРЕПОЛНЕНИЕ СТЕКА | СТЕК ВЫЗОВОВ | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ | # 49 \n https://www.youtube.com/watch?v=B50p1BRyb_E&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=65");
             // Console.WriteLine(" \n");
 
 
