@@ -41,17 +41,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "REF", "REF\REF.csproj", "{F
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Изменение размера массива", "Изменение размера массива\Изменение размера массива.csproj", "{C8ABFA64-CD6B-4430-BE98-A3B20851C1BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Добавление элемента в массив", "Добавление элемента в массив\Добавление элемента в массив.csproj", "{B1170DC9-D3CE-4994-A6D7-7FCD9E44A191}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Добавление элемента в массив", "Добавление элемента в массив\Добавление элемента в массив.csproj", "{B1170DC9-D3CE-4994-A6D7-7FCD9E44A191}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "УДАЛИТЬ ЭЛЕМЕНТ ИЗ МАССИВА", "УДАЛИТЬ ЭЛЕМЕНТ ИЗ МАССИВА\УДАЛИТЬ ЭЛЕМЕНТ ИЗ МАССИВА.csproj", "{914284F9-B027-4AFE-BF89-909A707220CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "УДАЛИТЬ ЭЛЕМЕНТ ИЗ МАССИВА", "УДАЛИТЬ ЭЛЕМЕНТ ИЗ МАССИВА\УДАЛИТЬ ЭЛЕМЕНТ ИЗ МАССИВА.csproj", "{914284F9-B027-4AFE-BF89-909A707220CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ключевое слово OUT", "Ключевое слово OUT\Ключевое слово OUT.csproj", "{1A2F578A-AB1A-4B7A-BA94-EB32A8797D6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ключевое слово OUT", "Ключевое слово OUT\Ключевое слово OUT.csproj", "{1A2F578A-AB1A-4B7A-BA94-EB32A8797D6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ключевое слово IN", "Ключевое слово IN\Ключевое слово IN.csproj", "{136EF68C-0CAD-4A3B-A4D3-252332B41650}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ключевое слово IN", "Ключевое слово IN\Ключевое слово IN.csproj", "{136EF68C-0CAD-4A3B-A4D3-252332B41650}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Вычесление диогонали", "Вычесление диогонали\Вычесление диогонали.csproj", "{9CE3E7A1-EF11-4E85-9315-339291EFFCFE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Вычесление диогонали", "Вычесление диогонали\Вычесление диогонали.csproj", "{9CE3E7A1-EF11-4E85-9315-339291EFFCFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rand", "Rand\Rand.csproj", "{7D932380-FAF4-4485-A308-DD406B6CE2E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rand", "Rand\Rand.csproj", "{7D932380-FAF4-4485-A308-DD406B6CE2E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "рекурсия", "рекурсия\рекурсия.csproj", "{C14EA3E9-D972-40BC-84C0-DCA3CE6533C6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -159,6 +161,10 @@ Global
 		{7D932380-FAF4-4485-A308-DD406B6CE2E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D932380-FAF4-4485-A308-DD406B6CE2E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D932380-FAF4-4485-A308-DD406B6CE2E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C14EA3E9-D972-40BC-84C0-DCA3CE6533C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C14EA3E9-D972-40BC-84C0-DCA3CE6533C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C14EA3E9-D972-40BC-84C0-DCA3CE6533C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C14EA3E9-D972-40BC-84C0-DCA3CE6533C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
