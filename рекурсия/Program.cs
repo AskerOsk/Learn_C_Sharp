@@ -46,6 +46,8 @@ namespace рекурсия
 
             // PrintArr(myArray);
             // Foo(1);
+
+            Console.WriteLine(" Как найти сумму цифр числа | СИ ШАРП ДОМАШНИЕ ЗАДАНИЯ # 17 \n https://www.youtube.com/watch?v=c4h0FKXkWf8&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=68");
         }
     }
 }
