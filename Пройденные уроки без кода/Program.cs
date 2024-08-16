@@ -19,7 +19,7 @@ namespace Пройденные_уроки_без_кода
             Console.WriteLine("КЛЮЧЕВОЕ СЛОВО PARAMS | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ \n https://www.youtube.com/watch?v=gwYuiwelSQs&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=62");
             Console.WriteLine("ЧТО ТАКОЕ РЕКУРСИЯ C# | ПЕРЕПОЛНЕНИЕ СТЕКА | СТЕК ВЫЗОВОВ | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ | # 49 \n https://www.youtube.com/watch?v=B50p1BRyb_E&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=65");
             Console.WriteLine(" Как найти сумму цифр числа | СИ ШАРП ДОМАШНИЕ ЗАДАНИЯ # 17 \n https://www.youtube.com/watch?v=c4h0FKXkWf8&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=68");
-            // Console.WriteLine(" \n");
+            Console.WriteLine("ПРЕОБРАЗОВАНИЕ И ПРИВЕДЕНИЕ ТИПОВ В C# | Явное| Неявное | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ | # 50 \n https://www.youtube.com/watch?v=cfoec_hRfPU&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=69");
             // Console.WriteLine(" \n");
             // Console.WriteLine(" \n");
             // Console.WriteLine(" \n");

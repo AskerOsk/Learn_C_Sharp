@@ -42,7 +42,7 @@ namespace рекурсия
 
             int res = Sum(myArray);
 
-            Console.WriteLine(res);
+            Console.WriteLine(res); 
 
             // PrintArr(myArray);
             // Foo(1);
