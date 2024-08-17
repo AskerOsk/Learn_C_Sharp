@@ -53,7 +53,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Вычесление дио
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rand", "Rand\Rand.csproj", "{7D932380-FAF4-4485-A308-DD406B6CE2E3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "рекурсия", "рекурсия\рекурсия.csproj", "{C14EA3E9-D972-40BC-84C0-DCA3CE6533C6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "рекурсия", "рекурсия\рекурсия.csproj", "{C14EA3E9-D972-40BC-84C0-DCA3CE6533C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Арифметическое переполнение", "Арифметическое переполнение\Арифметическое переполнение.csproj", "{0F4434D1-7D54-4D19-A160-96F28EADDCAB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +167,10 @@ Global
 		{C14EA3E9-D972-40BC-84C0-DCA3CE6533C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C14EA3E9-D972-40BC-84C0-DCA3CE6533C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C14EA3E9-D972-40BC-84C0-DCA3CE6533C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F4434D1-7D54-4D19-A160-96F28EADDCAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F4434D1-7D54-4D19-A160-96F28EADDCAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F4434D1-7D54-4D19-A160-96F28EADDCAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F4434D1-7D54-4D19-A160-96F28EADDCAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
