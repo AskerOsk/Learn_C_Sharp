@@ -31,7 +31,7 @@ namespace Пройденные_уроки_без_кода
             Console.WriteLine();
             Console.WriteLine("Что такое Nullable | Null совместимые значимые типы Nullable \n https://www.youtube.com/watch?v=jhz3Ltc09m4&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=71");
             Console.WriteLine();
-            // Console.WriteLine(" \n");
+            Console.WriteLine("var c# что это \n https://www.youtube.com/watch?v=vbuZkuMfQ3k&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=72");
             Console.WriteLine();
             // Console.WriteLine(" \n");
             Console.WriteLine();
