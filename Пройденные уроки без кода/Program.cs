@@ -33,6 +33,10 @@ namespace Пройденные_уроки_без_кода
             Console.WriteLine();
             Console.WriteLine("var c# что это \n https://www.youtube.com/watch?v=vbuZkuMfQ3k&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=72");
             Console.WriteLine();
+            Console.WriteLine("enum c# ЧТО ЭТО И ДЛЯ ЧЕГО НУЖНО | перечисления enum c# | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ | # 54 \n https://www.youtube.com/watch?v=lBUFlJbNq-Q&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=73");
+            Console.WriteLine();
+            // Console.WriteLine(" \n");
+            Console.WriteLine();
             // Console.WriteLine(" \n");
             Console.WriteLine();
             // Console.WriteLine(" \n");
