@@ -35,14 +35,13 @@ namespace Пройденные_уроки_без_кода
             Console.WriteLine();
             Console.WriteLine("enum c# ЧТО ЭТО И ДЛЯ ЧЕГО НУЖНО | перечисления enum c# | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ | # 54 \n https://www.youtube.com/watch?v=lBUFlJbNq-Q&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=73");
             Console.WriteLine();
-            // Console.WriteLine(" \n");
+            Console.WriteLine("Что такое класс | ООП C# | Что такое объект класса | Экземпляр класса | C# Уроки | # 55 \n https://www.youtube.com/watch?v=lg_D_1KNBek&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=76");
             Console.WriteLine();
             // Console.WriteLine(" \n");
             Console.WriteLine();
             // Console.WriteLine(" \n");
             Console.WriteLine();
             // Console.WriteLine(" \n");
-
 
             /* 
             int[] myArray = null;
