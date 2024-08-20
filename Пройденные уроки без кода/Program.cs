@@ -43,15 +43,19 @@ namespace Пройденные_уроки_без_кода
             Console.WriteLine();
             Console.WriteLine(" ИНКАПСУЛЯЦИЯ C# | примеры инкапсуляции с объяснением | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ | # 58 \n https://www.youtube.com/watch?v=C0FNqM7hsao&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=77");
             Console.WriteLine();
+            Console.WriteLine(" Что такое конструктор класса c# | для чего он нужен | конструктор по умолчанию си шарп | Урок # 59 \n https://www.youtube.com/watch?v=4z9vkieAyfM&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=78");
+            Console.WriteLine();
+            // Console.WriteLine(" \n");
+            Console.WriteLine();
+            // Console.WriteLine(" \n");
+            Console.WriteLine();
+            // Console.WriteLine(" \n"); Console.WriteLine();
             // Console.WriteLine(" \n");
             Console.WriteLine();
             // Console.WriteLine(" \n");
 
-            /* 
-            int[] myArray = null;
-            myArray ??= new int[0];
-            Console.WriteLine(myArray.Length);
-            */
+
+        
         }
     }
 }
