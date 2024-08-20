@@ -41,7 +41,7 @@ namespace Пройденные_уроки_без_кода
             Console.WriteLine();
             Console.WriteLine("Модификаторы доступа C# | РАЗНИЦА МЕЖДУ public и private в C# | ООП C# | C# УРОК | # 57 \n https://www.youtube.com/watch?v=hGJ6aq5SGSU&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=76");
             Console.WriteLine();
-            // Console.WriteLine(" \n");
+            Console.WriteLine(" ИНКАПСУЛЯЦИЯ C# | примеры инкапсуляции с объяснением | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ | # 58 \n https://www.youtube.com/watch?v=C0FNqM7hsao&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=77");
             Console.WriteLine();
             // Console.WriteLine(" \n");
             Console.WriteLine();
