@@ -37,6 +37,8 @@ namespace Пройденные_уроки_без_кода
             Console.WriteLine();
             Console.WriteLine("Что такое класс | ООП C# | Что такое объект класса | Экземпляр класса | C# Уроки | # 55 \n https://www.youtube.com/watch?v=lg_D_1KNBek&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=76");
             Console.WriteLine();
+            Console.WriteLine("С# методы и классы | ООП C# и вызов метода объекта класса | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ | # 56 \n https://www.youtube.com/watch?v=PVtmZ1YeOD8&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=75");
+            Console.WriteLine();
             // Console.WriteLine(" \n");
             Console.WriteLine();
             // Console.WriteLine(" \n");
