@@ -39,6 +39,8 @@ namespace Пройденные_уроки_без_кода
             Console.WriteLine();
             Console.WriteLine("С# методы и классы | ООП C# и вызов метода объекта класса | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ | # 56 \n https://www.youtube.com/watch?v=PVtmZ1YeOD8&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=75");
             Console.WriteLine();
+            Console.WriteLine("Модификаторы доступа C# | РАЗНИЦА МЕЖДУ public и private в C# | ООП C# | C# УРОК | # 57 \n https://www.youtube.com/watch?v=hGJ6aq5SGSU&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=76");
+            Console.WriteLine();
             // Console.WriteLine(" \n");
             Console.WriteLine();
             // Console.WriteLine(" \n");
