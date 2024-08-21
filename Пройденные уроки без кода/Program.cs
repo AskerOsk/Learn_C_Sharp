@@ -47,15 +47,24 @@ namespace Пройденные_уроки_без_кода
             Console.WriteLine();
             Console.WriteLine("Перегрузка конструкторов класса в C# | Что такое перегрузка | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ | # 60 \n https://www.youtube.com/watch?v=t7cODl_-X_U&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=79");
             Console.WriteLine();
+            Console.WriteLine("Ключевое слово this c# | ООП C# | С# this в конструкторе | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ | # 61 \n https://www.youtube.com/watch?v=OD_rUWpAuDg&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=80");
+            Console.WriteLine();
             // Console.WriteLine(" \n");
             Console.WriteLine();
-            // Console.WriteLine(" \n"); Console.WriteLine();
+            // Console.WriteLine(" \n");
+            Console.WriteLine();
+            // Console.WriteLine(" \n");
+            Console.WriteLine();
+            // Console.WriteLine(" \n");
+            Console.WriteLine();
+            // Console.WriteLine(" \n");
+            Console.WriteLine();
             // Console.WriteLine(" \n");
             Console.WriteLine();
             // Console.WriteLine(" \n");
 
 
-        
+
         }
     }
 }
