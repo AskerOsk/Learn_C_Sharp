@@ -53,7 +53,7 @@ namespace Пройденные_уроки_без_кода
             // propfull - для дыстрого создания.
             Console.WriteLine("C# свойства get set | ключевое слово value | автоматические свойства c# | ООП C# Урок | # 62\n https://www.youtube.com/watch?v=2or3h5m3VbA&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=81");
             Console.WriteLine();
-            // Console.WriteLine(" \n");
+            Console.WriteLine("C# статические поля класса | как работает ключевое слово static | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ # 63 \n https://www.youtube.com/watch?v=uvBeW5HIU9I&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=82");
             Console.WriteLine();
             // Console.WriteLine(" \n");
             Console.WriteLine();
