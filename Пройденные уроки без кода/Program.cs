@@ -49,7 +49,9 @@ namespace Пройденные_уроки_без_кода
             Console.WriteLine();
             Console.WriteLine("Ключевое слово this c# | ООП C# | С# this в конструкторе | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ | # 61 \n https://www.youtube.com/watch?v=OD_rUWpAuDg&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=80");
             Console.WriteLine();
-            // Console.WriteLine(" \n");
+
+            // propfull - для дыстрого создания.
+            Console.WriteLine("C# свойства get set | ключевое слово value | автоматические свойства c# | ООП C# Урок | # 62\n https://www.youtube.com/watch?v=2or3h5m3VbA&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=81");
             Console.WriteLine();
             // Console.WriteLine(" \n");
             Console.WriteLine();
@@ -63,7 +65,7 @@ namespace Пройденные_уроки_без_кода
             Console.WriteLine();
             // Console.WriteLine(" \n");
 
-
+            
 
         }
     }
