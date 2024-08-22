@@ -61,11 +61,22 @@ namespace Пройденные_уроки_без_кода
             Console.WriteLine();
             Console.WriteLine("Статический класс c# | как работает ключевое слово static | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ | # 66 \n https://www.youtube.com/watch?v=KHJnSl9PugM&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=85");
             Console.WriteLine();
+            Console.WriteLine("Методы расширения c# | extension методы c# | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ | # 67 \n https://www.youtube.com/watch?v=lH4YIgIMCBM&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=87");
+            Console.WriteLine();
+            // Console.WriteLine(" \n");
+            Console.WriteLine();
+            // Console.WriteLine(" \n");
+            Console.WriteLine();
+            // Console.WriteLine(" \n");
+            Console.WriteLine();
+            // Console.WriteLine(" \n");
+            Console.WriteLine();
+            // Console.WriteLine(" \n");
+            Console.WriteLine();
             // Console.WriteLine(" \n");
             Console.WriteLine();
             // Console.WriteLine(" \n");
 
-            
 
         }
     }
