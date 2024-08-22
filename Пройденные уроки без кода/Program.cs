@@ -55,7 +55,7 @@ namespace Пройденные_уроки_без_кода
             Console.WriteLine();
             Console.WriteLine("C# статические поля класса | как работает ключевое слово static | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ # 63 \n https://www.youtube.com/watch?v=uvBeW5HIU9I&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=82");
             Console.WriteLine();
-            // Console.WriteLine(" \n");
+            Console.WriteLine("Статические методы C# | Статические свойства C# | как работает ключевое слово static | C# ООП | # 64 \n https://www.youtube.com/watch?v=EWMfxcnWOOo&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=83");
             Console.WriteLine();
             // Console.WriteLine(" \n");
             Console.WriteLine();
