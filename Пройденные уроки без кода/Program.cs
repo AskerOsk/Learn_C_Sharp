@@ -65,7 +65,7 @@ namespace Пройденные_уроки_без_кода
             Console.WriteLine();
             Console.WriteLine("partial класс c# | частичные типы c# | partial методы c# | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ | # 68 \n https://www.youtube.com/watch?v=O3hY11e9Hnw&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=87");
             Console.WriteLine();
-            // Console.WriteLine(" \n");
+            Console.WriteLine("const vs readonly | c# разница между const и readonly | const и static | C# ООП | # 69\n https://www.youtube.com/watch?v=tSmY8ln4t8s&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=88");
             Console.WriteLine();
             // Console.WriteLine(" \n"); 
             Console.WriteLine();
