@@ -59,7 +59,7 @@ namespace Пройденные_уроки_без_кода
             Console.WriteLine();
             Console.WriteLine("Статический конструктор класса c# | как работает ключевое слово static | C# ООП | # 65 \n https://www.youtube.com/watch?v=pRc703VTDPY&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=84");
             Console.WriteLine();
-            // Console.WriteLine(" \n");
+            Console.WriteLine("Статический класс c# | как работает ключевое слово static | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ | # 66 \n https://www.youtube.com/watch?v=KHJnSl9PugM&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=85");
             Console.WriteLine();
             // Console.WriteLine(" \n");
             Console.WriteLine();
