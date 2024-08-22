@@ -63,11 +63,11 @@ namespace Пройденные_уроки_без_кода
             Console.WriteLine();
             Console.WriteLine("Методы расширения c# | extension методы c# | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ | # 67 \n https://www.youtube.com/watch?v=lH4YIgIMCBM&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=87");
             Console.WriteLine();
-            // Console.WriteLine(" \n");
+            Console.WriteLine("partial класс c# | частичные типы c# | partial методы c# | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ | # 68 \n https://www.youtube.com/watch?v=O3hY11e9Hnw&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=87");
             Console.WriteLine();
             // Console.WriteLine(" \n");
             Console.WriteLine();
-            // Console.WriteLine(" \n");
+            // Console.WriteLine(" \n"); 
             Console.WriteLine();
             // Console.WriteLine(" \n");
             Console.WriteLine();
