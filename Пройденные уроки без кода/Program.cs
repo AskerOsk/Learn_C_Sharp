@@ -69,6 +69,13 @@ namespace Пройденные_уроки_без_кода
             Console.WriteLine();
             Console.WriteLine("Синтаксис инициализации объектов класса | ООП C# | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ | # 70\n https://www.youtube.com/watch?v=UIsf7vr87Eo&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=90"); 
             Console.WriteLine();
+            Console.WriteLine(" Наследование в C# | Что такое наследование в ооп | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ | # 71 \n https://www.youtube.com/watch?v=9JaiDu6DJ-o&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=90");
+            Console.WriteLine();
+            // Console.WriteLine(" \n");
+            Console.WriteLine();
+            // Console.WriteLine(" \n");
+            Console.WriteLine();
+            // Console.WriteLine(" \n");
             // Console.WriteLine(" \n");
             Console.WriteLine();
             // Console.WriteLine(" \n");
