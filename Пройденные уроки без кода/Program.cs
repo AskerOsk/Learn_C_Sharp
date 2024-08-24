@@ -71,7 +71,7 @@ namespace Пройденные_уроки_без_кода
             Console.WriteLine();
             Console.WriteLine(" Наследование в C# | Что такое наследование в ооп | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ | # 71 \n https://www.youtube.com/watch?v=9JaiDu6DJ-o&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=90");
             Console.WriteLine();
-            // Console.WriteLine(" \n");
+            Console.WriteLine("Ключевое слово base в C# | наследование и конструктор класса | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ | # 72\n https://www.youtube.com/watch?v=wr_adG-biuc&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=91");
             Console.WriteLine();
             // Console.WriteLine(" \n");
             Console.WriteLine();
