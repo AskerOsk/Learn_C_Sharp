@@ -75,7 +75,7 @@ namespace Пройденные_уроки_без_кода
             Console.WriteLine();
             // Console.WriteLine(" \n");
             Console.WriteLine();
-            // Console.WriteLine(" \n");
+            Console.WriteLine(" Road map \n https://uproger.com/dorozhnaya-karta-razrabotchikov-net-v-2024-godu-dlya-nachinayushhih/");
 
 
         }
