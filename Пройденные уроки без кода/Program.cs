@@ -77,7 +77,7 @@ namespace Пройденные_уроки_без_кода
             Console.WriteLine();
             Console.WriteLine("Наследование в C# и модификаторы доступа | модификатор protected c# \n https://www.youtube.com/watch?v=MDcPcKltm9M&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=93");
             Console.WriteLine();
-            // Console.WriteLine(" \n");
+            Console.WriteLine("Полиморфизм | виртуальные методы c# | virtual override c# | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ | # 75 \n https://www.youtube.com/watch?v=xH61vpBebjw&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=95");
             Console.WriteLine();
             // Console.WriteLine(" \n");
             Console.WriteLine();
