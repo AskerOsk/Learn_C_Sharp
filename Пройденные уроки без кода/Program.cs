@@ -75,7 +75,8 @@ namespace Пройденные_уроки_без_кода
             Console.WriteLine();
             Console.WriteLine("Операторы as is c# | наследование и приведение типов в C# | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ | # 73 \n https://www.youtube.com/watch?v=tO7ohK6vTw4&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=92");
             Console.WriteLine();
-            // Console.WriteLine(" \n");
+            Console.WriteLine("Наследование в C# и модификаторы доступа | модификатор protected c# \n https://www.youtube.com/watch?v=MDcPcKltm9M&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=93");
+            Console.WriteLine();
             // Console.WriteLine(" \n");
             Console.WriteLine();
             // Console.WriteLine(" \n");
