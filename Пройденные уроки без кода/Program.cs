@@ -73,7 +73,7 @@ namespace Пройденные_уроки_без_кода
             Console.WriteLine();
             Console.WriteLine("Ключевое слово base в C# | наследование и конструктор класса | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ | # 72\n https://www.youtube.com/watch?v=wr_adG-biuc&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=91");
             Console.WriteLine();
-            // Console.WriteLine(" \n");
+            Console.WriteLine("Операторы as is c# | наследование и приведение типов в C# | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ | # 73 \n https://www.youtube.com/watch?v=tO7ohK6vTw4&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=92");
             Console.WriteLine();
             // Console.WriteLine(" \n");
             // Console.WriteLine(" \n");
