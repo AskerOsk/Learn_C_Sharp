@@ -81,7 +81,7 @@ namespace Пройденные_уроки_без_кода
             Console.WriteLine();
             Console.WriteLine("Абстрактные классы | зачем нужны абстрактные методы | abstract c# \n https://www.youtube.com/watch?v=GAq9QrBvVtw&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=96");
             Console.WriteLine();
-            // Console.WriteLine(" \n");
+            Console.WriteLine("Интерфейсы в C# зачем нужны и как используются | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ | # 77 \n https://www.youtube.com/watch?v=8eZy5xiildM&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=97");
             Console.WriteLine();
             Console.WriteLine();
             // Console.WriteLine(" \n");
