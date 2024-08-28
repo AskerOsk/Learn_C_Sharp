@@ -79,6 +79,16 @@ namespace Пройденные_уроки_без_кода
             Console.WriteLine();
             Console.WriteLine("Полиморфизм | виртуальные методы c# | virtual override c# | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ | # 75 \n https://www.youtube.com/watch?v=xH61vpBebjw&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=95");
             Console.WriteLine();
+            Console.WriteLine("Абстрактные классы | зачем нужны абстрактные методы | abstract c# \n https://www.youtube.com/watch?v=GAq9QrBvVtw&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=96");
+            Console.WriteLine();
+            // Console.WriteLine(" \n");
+            Console.WriteLine();
+            Console.WriteLine();
+            // Console.WriteLine(" \n");
+            Console.WriteLine();
+            // Console.WriteLine(" \n");
+            Console.WriteLine();
+            Console.WriteLine();
             // Console.WriteLine(" \n");
             Console.WriteLine();
             // Console.WriteLine(" \n");
