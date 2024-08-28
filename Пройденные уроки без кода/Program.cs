@@ -86,8 +86,13 @@ namespace Пройденные_уроки_без_кода
             Console.WriteLine();
             Console.WriteLine("Наследование интерфейсов C# | множественное наследование интерфейсов | C# ООП | # 78 \n https://www.youtube.com/watch?v=V3eZX-nDQBk&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=98");
             Console.WriteLine();
+            Console.WriteLine("Интерфейсы в C# | ЯВНАЯ РЕАЛИЗАЦИЯ интерфейса C# | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ | # 79 \n https://www.youtube.com/watch?v=k9XQBLUzNQA&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=99");
+            Console.WriteLine();
             // Console.WriteLine(" \n");
             Console.WriteLine();
+            // Console.WriteLine(" \n");
+            Console.WriteLine();
+            // Console.WriteLine(" \n");
             Console.WriteLine();
             // Console.WriteLine(" \n");
             Console.WriteLine();
