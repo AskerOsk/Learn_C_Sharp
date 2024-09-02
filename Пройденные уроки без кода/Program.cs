@@ -94,7 +94,7 @@ namespace Пройденные_уроки_без_кода
             Console.WriteLine();
             Console.WriteLine("Упаковка и распаковка значимых типов c# | boxing and unboxing | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ | # 82 \n https://www.youtube.com/watch?v=FawYy8tztdI&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=102");
             Console.WriteLine();
-            // Console.WriteLine(" \n");
+            Console.WriteLine("Обобщения в C# | C# generics | generic типы методы и классы | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ | # 83 \n https://www.youtube.com/watch?v=TLMwNFCcqVo&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=103");
             Console.WriteLine();
             // Console.WriteLine(" \n");
             Console.WriteLine();
