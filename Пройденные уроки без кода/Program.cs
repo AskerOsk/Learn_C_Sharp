@@ -90,7 +90,7 @@ namespace Пройденные_уроки_без_кода
             Console.WriteLine();
             Console.WriteLine("Реализация интерфейса по умолчанию в C# 8.0 | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ | # 80\n https://www.youtube.com/watch?v=90WZfH-7Xow&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=100");
             Console.WriteLine();
-            // Console.WriteLine(" \n");
+            Console.WriteLine("Структуры в C# | структуры и классы отличия | struct vs class | C# ОТ НОВИЧКА К ПРОФЕССИОНАЛУ | # 81 \n https://www.youtube.com/watch?v=8E9P_lnJ7RI&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=101");
             Console.WriteLine();
             // Console.WriteLine(" \n");
             Console.WriteLine();
