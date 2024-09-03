@@ -121,8 +121,26 @@ namespace Пройденные_уроки_без_кода
             Console.WriteLine(" Вся база SQL для начинающих за 1 час \n  Начало");
             Console.WriteLine();
             Console.WriteLine("БД \n Табилицы \n Создание таблиц");
+
+            /*
+                Создание таблиц
+                CREATE TABLE "nameTable" (какие колонки для таблиц будут созданы. Есть свои типы,  примеру BIGINT - только целые числа)
+
+                Запись новых данных
+                INSERT INTO "nameTable" - Записать в "название таблицы" (колонки)
+                VALUES (присваивание данных в колонки, очередность данных должны совпадать с выше перечисленными данными.)
+
+                Обновление данных в таблицу
+                UPDATE "nameTable" SET 
+                "название поля для обновления" =  "значение"
+                WHERE id = 1  — Условие по которому будет проходить обновление.
+
+                DELETE FROM "nameTable" 
+                WHERE id = 1 OR id = 2 — Где WHERE это условие, а OR - означает "И", удалить элементы под номером  1 и 2
+            */
+
             Console.WriteLine();
-            // Console.WriteLine(" \n");
+            Console.WriteLine("");
             Console.WriteLine();
             // Console.WriteLine(" \n");
             Console.WriteLine();
