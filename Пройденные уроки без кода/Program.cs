@@ -98,7 +98,7 @@ namespace Пройденные_уроки_без_кода
             Console.WriteLine();
             Console.WriteLine("Обобщения в C# | производительность | коллекции | list vs arraylist | C# ООП | # 84 \n https://www.youtube.com/watch?v=aToq1UEKSuM&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=104");
             Console.WriteLine();
-            // Console.WriteLine(" \n");
+            // Console.WriteLine("C# List \n https://www.youtube.com/watch?v=DcqXjL8U7wY");
             Console.WriteLine();
             // Console.WriteLine(" \n");
             Console.WriteLine();
