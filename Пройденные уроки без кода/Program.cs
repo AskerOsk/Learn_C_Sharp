@@ -9,6 +9,7 @@ namespace Пройденные_уроки_без_кода
             /* 
                 Class, struct, enum
             */
+            /*
             Console.WriteLine("ССЫЛОЧНЫЕ И ЗНАЧИМЫЕ ТИПЫ C# | СТЕК И КУЧА C# | REFERENCE AND VALUE TYPES C# | C# Уроки | # 38 \nhttps://www.youtube.com/watch?v=_RUluZNOwfY&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=51");
             Console.WriteLine();
             Console.WriteLine("ОБЛАСТЬ ВИДИМОСТИ | КОНТЕКСТ ПЕРЕМЕННОЙ | КОНФЛИКТЫ ОБЛАСТЕЙ ВИДИМОСТИ | C# Уроки | # 37 \nhttps://www.youtube.com/watch?v=FyCp19W_5d8&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=50");
@@ -98,11 +99,28 @@ namespace Пройденные_уроки_без_кода
             Console.WriteLine();
             Console.WriteLine("Обобщения в C# | производительность | коллекции | list vs arraylist | C# ООП | # 84 \n https://www.youtube.com/watch?v=aToq1UEKSuM&list=PLQOaTSbfxUtD6kMmAYc8Fooqya3pjLs1N&index=104");
             Console.WriteLine();
-            // Console.WriteLine("C# List \n https://www.youtube.com/watch?v=DcqXjL8U7wY");
+            Console.WriteLine("C# List \n https://www.youtube.com/watch?v=DcqXjL8U7wY");
             Console.WriteLine();
-            // Console.WriteLine(" \n");
+
+
+            */
+
+
+
+
+
+
+
+
+
+
+            Console.WriteLine("SQL SQL SQL ____________________________ SQL SQL SQL");
             Console.WriteLine();
-            // Console.WriteLine(" \n");
+
+
+            Console.WriteLine(" Вся база SQL для начинающих за 1 час \n  Начало");
+            Console.WriteLine();
+            Console.WriteLine("БД \n Табилицы \n Создание таблиц");
             Console.WriteLine();
             // Console.WriteLine(" \n");
             Console.WriteLine();
