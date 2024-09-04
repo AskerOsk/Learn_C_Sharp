@@ -139,6 +139,20 @@ namespace Пройденные_уроки_без_кода
                 WHERE id = 1 OR id = 2 — Где WHERE это условие, а OR - означает "И", удалить элементы под номером  1 и 2
             */
 
+            /*
+            
+            SELECT - Для полученя данных.
+
+            select top 100 *  from tasks  -- * Все колонки || top 100 - вывод первых 100 результатов
+            AND || OR 
+            Where  Id = 141667 and UserId = 4241367
+
+            order by id desc;
+
+             
+            */
+
+
             Console.WriteLine();
             Console.WriteLine("");
             Console.WriteLine();
