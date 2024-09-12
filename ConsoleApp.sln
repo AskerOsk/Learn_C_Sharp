@@ -55,7 +55,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rand", "Rand\Rand.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "рекурсия", "рекурсия\рекурсия.csproj", "{C14EA3E9-D972-40BC-84C0-DCA3CE6533C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Арифметическое переполнение", "Арифметическое переполнение\Арифметическое переполнение.csproj", "{0F4434D1-7D54-4D19-A160-96F28EADDCAB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Арифметическое переполнение", "Арифметическое переполнение\Арифметическое переполнение.csproj", "{0F4434D1-7D54-4D19-A160-96F28EADDCAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode", "LeetCode\LeetCode.csproj", "{6FE51E1F-8510-4DB6-A4FC-64AF253DE770}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +173,10 @@ Global
 		{0F4434D1-7D54-4D19-A160-96F28EADDCAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F4434D1-7D54-4D19-A160-96F28EADDCAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F4434D1-7D54-4D19-A160-96F28EADDCAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FE51E1F-8510-4DB6-A4FC-64AF253DE770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FE51E1F-8510-4DB6-A4FC-64AF253DE770}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FE51E1F-8510-4DB6-A4FC-64AF253DE770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FE51E1F-8510-4DB6-A4FC-64AF253DE770}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
