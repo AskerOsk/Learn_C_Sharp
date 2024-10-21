@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.35026.282
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{638BAFB7-ABCB-48F3-B786-2B8DDDC590D7}"
 EndProject
@@ -57,7 +57,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "рекурсия", "рек�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Арифметическое переполнение", "Арифметическое переполнение\Арифметическое переполнение.csproj", "{0F4434D1-7D54-4D19-A160-96F28EADDCAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode", "LeetCode\LeetCode.csproj", "{6FE51E1F-8510-4DB6-A4FC-64AF253DE770}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCode", "LeetCode\LeetCode.csproj", "{6FE51E1F-8510-4DB6-A4FC-64AF253DE770}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum", "Enum\Enum.csproj", "{28FE8095-47C8-4BE0-AAEA-B9AE7FF18FC9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +179,10 @@ Global
 		{6FE51E1F-8510-4DB6-A4FC-64AF253DE770}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FE51E1F-8510-4DB6-A4FC-64AF253DE770}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FE51E1F-8510-4DB6-A4FC-64AF253DE770}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28FE8095-47C8-4BE0-AAEA-B9AE7FF18FC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28FE8095-47C8-4BE0-AAEA-B9AE7FF18FC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28FE8095-47C8-4BE0-AAEA-B9AE7FF18FC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28FE8095-47C8-4BE0-AAEA-B9AE7FF18FC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
