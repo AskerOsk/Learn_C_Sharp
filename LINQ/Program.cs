@@ -22,6 +22,19 @@ namespace LINQ
         //Count: Подсчет количества элементов.
         }
 
+        class Car
+        {
+            public int speed 
+            string Drive;
+        }
+
+        class Audi : Car
+        {
+            public string Refuel
+            {
+                d
+            }
+        }
 
     }
 }
