@@ -50,4 +50,24 @@ public class Program
     //    return result;
     //}
     // -------------------------------------------------------------------------------------- //
+
+
+    static async Task Main(string[] args)
+    {
+        var task1 = Task.Run(() => TaskWork("задача1", 3000));
+        var task2 = Task.Run(() => TaskWork("задача2", 1000));
+        var task3 = Task.Run(() => TaskWork("задача3", 2000));
+
+        Task res = await Task.WhenAny(task1, task2, task3);
+        Console.WriteLine($"Первая завершенная задача");
+        Console.ReadLine();
+    }
+
+    static void TaskWork(string taskName, int Delay)
+    {
+        Console.WriteLine($"{taskName} начата.");
+        Task.Delay( Delay );
+        Console.WriteLine($"{taskName} завершена");
+    }
+
 }
